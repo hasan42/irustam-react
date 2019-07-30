@@ -1,0 +1,11 @@
+.info {
+    max-width: 1200px;
+    width: auto;
+    display: block;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.personal-about {
+    text-align: center;
+}

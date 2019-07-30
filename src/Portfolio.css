@@ -1,0 +1,11 @@
+.portfolio {
+    max-width: 1200px;
+    width: auto;
+    display: block;
+    margin: 30px auto;
+    padding: 0 20px;
+}
+
+    .portfolio h2 {
+        text-align: center;
+    }
